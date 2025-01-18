@@ -17,10 +17,22 @@ Tu peux aussi consulter une version détaillée de mon CV ci-dessous (ou dans un
 
 ## 💼 Portfolio
 
-### Projet 1: **Application de gestion d'équipe (Angular & Flask)**
-Un projet complet de gestion d'équipe, où j'ai utilisé **Angular** pour le frontend et **Flask** pour le backend.  
+### Projet 1: **Korifinances (Gestion de log et création de pages)**
+Un projet innovant dans le domaine des services financiers. Korifinances propose des solutions pour des transferts d'argent rapides et sécurisés : **Angular** pour le frontend et **Flask** pour le backend.  
+ - **Espèces à espèces** : Un vaste réseau d'agences et de points de vente indépendants.
+ - **Espèces au compte** : Transfert d'argent directement vers un compte bancaire.
+ - **Espèces vers mobile** : Effectuer des opérations depuis ou vers un mobile.
+
+Dans ce projet, j'ai principalement travaillé sur :
+ - **Création de pages dynamiques et gestion du chargement des données** : Développement de pages interactives en Angular avec l'intégration d'un skeleton loader. Ce dernier 
+     s'affiche lors du changement de page, créant une maquette de la page avec des éléments en forme de "squelette" pendant que les données sont chargées, offrant ainsi une 
+     expérience utilisateur fluide et moderne tout en minimisant l'attente visible.
+
+<!--
 ![Screenshot du projet 1](images/screenshot1.jpg)  
 Description courte du projet...
+-->
+
 
 <!--
 ### Projet 1: **Application de gestion d'équipe (Angular & Flask)**
