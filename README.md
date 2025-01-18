@@ -17,7 +17,7 @@ Tu peux aussi consulter une version détaillée de mon CV ci-dessous (ou dans un
 
 ## 💼 Portfolio 💼
 
-## 💼 Projets en entreprise
+##💼 Projets en entreprise
 
 
 ### Projet 1: **PowerCalc ()**
