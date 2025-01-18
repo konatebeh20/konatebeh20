@@ -19,6 +19,7 @@ Tu peux aussi consulter une version détaillée de mon CV ci-dessous (ou dans un
 
 ##💼 Projets en entreprise
 
+##  
 
 ### Projet 1: **PowerCalc ()**
 
@@ -104,7 +105,10 @@ Description courte du projet...
 Description courte du projet...
 -->
 
-## 💼 Projets personnels
+
+##  
+##💼 Projets personnels
+##  
 
 
 <!--
