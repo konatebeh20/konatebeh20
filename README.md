@@ -12,29 +12,29 @@ Je suis un développeur junior avec une passion pour le développement d'applica
 
 ## 📄 Mon CV
 
-Voici un lien vers mon **CV** : [CV.pdf](chemin/vers/cv.pdf)  
+Voici un lien vers mon **CV** : [CV.pdf](CV.pdf)  
 Tu peux aussi consulter une version détaillée de mon CV ci-dessous (ou dans un autre fichier markdown comme `CV.md`).
 
 ## 💼 Portfolio
 
 ### Projet 1: **Application de gestion d'équipe (Angular & Flask)**
 Un projet complet de gestion d'équipe, où j'ai utilisé **Angular** pour le frontend et **Flask** pour le backend.  
-![Screenshot du projet 1](chemin/vers/screenshot1.jpg)  
+![Screenshot du projet 1](images/screenshot1.jpg)  
 Description courte du projet...
 
 ### Projet 2: **Plateforme e-commerce (Laravel)**
 Création d'un site de commerce électronique avec intégration de paiement sécurisé via **Laravel**.  
-![Screenshot du projet 2](chemin/vers/screenshot2.jpg)  
+![Screenshot du projet 2](images/screenshot2.jpg)  
 Description courte du projet...
 
 ### Projet 3: **Application mobile de gestion de tâches (Ionic)**
 Une application mobile pour la gestion de tâches en temps réel.  
-![Screenshot du projet 3](chemin/vers/screenshot3.jpg)  
+![Screenshot du projet 3](images/screenshot3.jpg)  
 Description courte du projet...
 
 ## 📫 Me contacter
-- **Email** : [ton-email@example.com](mailto:ton-email@example.com)
-- **LinkedIn** : [Ton Profil LinkedIn](https://linkedin.com/in/ton-profil)
+- **Email** : [konatebeh20@gmail.com](mailto:konatebeh20@gmail.com)
+- **LinkedIn** : [Beh Konaté - LinkedIn](https://linkedin.com/in/beh-konaté-8804b7220)
 
 
 <!--
