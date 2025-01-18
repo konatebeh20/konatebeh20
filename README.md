@@ -22,6 +22,12 @@ Un projet complet de gestion d'équipe, où j'ai utilisé **Angular** pour le fr
 ![Screenshot du projet 1](images/screenshot1.jpg)  
 Description courte du projet...
 
+<!--
+### Projet 1: **Application de gestion d'équipe (Angular & Flask)**
+Un projet complet de gestion d'équipe, où j'ai utilisé **Angular** pour le frontend et **Flask** pour le backend.  
+![Screenshot du projet 1](images/screenshot1.jpg)  
+Description courte du projet...
+
 ### Projet 2: **Plateforme e-commerce (Laravel)**
 Création d'un site de commerce électronique avec intégration de paiement sécurisé via **Laravel**.  
 ![Screenshot du projet 2](images/screenshot2.jpg)  
@@ -31,6 +37,7 @@ Description courte du projet...
 Une application mobile pour la gestion de tâches en temps réel.  
 ![Screenshot du projet 3](images/screenshot3.jpg)  
 Description courte du projet...
+-->
 
 ## 📫 Me contacter
 - **Email** : [konatebeh20@gmail.com](mailto:konatebeh20@gmail.com)
