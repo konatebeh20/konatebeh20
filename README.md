@@ -15,9 +15,71 @@ Je suis un développeur junior avec une passion pour le développement d'applica
 Voici un lien vers mon **CV** : [CV.pdf](CV.pdf)  
 Tu peux aussi consulter une version détaillée de mon CV ci-dessous (ou dans un autre fichier markdown comme `CV.md`).
 
-## 💼 Portfolio
+## 💼 Portfolio 💼
 
-### Projet 1: **Korifinances (Gestion de log et création de pages)**
+## 💼 Projets en entreprise
+
+
+### Projet 1: **PowerCalc ()**
+
+
+<!--
+![Screenshot du projet 1](images/screenshot1.jpg)  
+Description courte du projet...
+-->
+
+
+### Projet 2: **Cashier ()**
+
+
+<!--
+![Screenshot du projet 1](images/screenshot1.jpg)  
+Description courte du projet...
+-->
+
+
+### Projet 3: **goparadize-api (gestion des favorie sur application mobile de rbnb)**
+
+
+<!--
+![Screenshot du projet 1](images/screenshot1.jpg)  
+Description courte du projet...
+-->
+
+
+### Projet 4: **goparadize_mobile (application mobile de rbnb)**
+
+
+<!--
+![Screenshot du projet 1](images/screenshot1.jpg)  
+Description courte du projet...
+-->
+
+### Projet 5: **goparadize_admin (application mobile de rbnb)**
+
+
+<!--
+![Screenshot du projet 1](images/screenshot1.jpg)  
+Description courte du projet...
+-->
+
+### Projet 6: **flotys_mobile ()**
+
+
+<!--
+![Screenshot du projet 1](images/screenshot1.jpg)  
+Description courte du projet...
+-->
+
+### Projet 7: **Flotyshub_app ()**
+
+
+<!--
+![Screenshot du projet 1](images/screenshot1.jpg)  
+Description courte du projet...
+-->
+
+### Projet 8: **Korifinances (Gestion de log et création de pages)**
 Un projet innovant dans le domaine des services financiers. Korifinances propose des solutions pour des transferts d'argent rapides et sécurisés : **Angular** pour le frontend et **Flask** pour le backend.  
  - **Espèces à espèces** : Un vaste réseau d'agences et de points de vente indépendants.
  - **Espèces au compte** : Transfert d'argent directement vers un compte bancaire.
@@ -32,6 +94,17 @@ Dans ce projet, j'ai principalement travaillé sur :
 ![Screenshot du projet 1](images/screenshot1.jpg)  
 Description courte du projet...
 -->
+
+
+### Projet 9: **Tornixtech ()**
+
+
+<!--
+![Screenshot du projet 1](images/screenshot1.jpg)  
+Description courte du projet...
+-->
+
+## 💼 Projets personnels
 
 
 <!--
