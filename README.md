@@ -1,6 +1,5 @@
 # Hi there (Salut a vous) 👋
-
-## Bienvenue sur mon profil GitHub professionnel 👔
+# Bienvenue sur mon profil GitHub professionnel 👔
 
 Ce dépôt contient mon CV, mes projets réalisés ainsi que des détails sur mes compétences et mon parcours professionnel.
 
