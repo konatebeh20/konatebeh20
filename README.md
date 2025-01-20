@@ -11,7 +11,7 @@ Je suis un développeur junior avec une passion pour le développement d'applica
 - Trello pour la gestion de projet
 
 ## 📄 Mon CV
-Voici un lien vers mon **CV** : [CV.pdf](assets/CV.pdf)
+Voici un lien vers mon **CV** : [CV.pdf](assets/CV.pdf)<br>
 Tu peux aussi consulter une version détaillée de mon CV ci-dessous (ou dans un autre fichier markdown comme `CV.md`).
 
 ## 💼 Portfolio 💼
