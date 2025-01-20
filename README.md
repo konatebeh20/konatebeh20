@@ -15,9 +15,7 @@ Je suis un développeur junior avec une passion pour le développement d'applica
 ## 📄 Mon CV
 
 Voici un lien vers mon **CV** : [CV.pdf](assets/CV.pdf)
-Tu peux aussi consulter une version de mon CV ci-dessous
-
-`CV.md`
+Tu peux aussi consulter une version détaillée de mon CV ci-dessous (ou dans un autre fichier markdown comme `CV.md`).
 
 ## 💼 Portfolio 💼
 
