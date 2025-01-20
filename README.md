@@ -20,7 +20,7 @@ Voici un lien vers mon **CV** : [CV.pdf](assets/CV.md)
 
 ## 💼 Portfolio 💼
 
-##💼 Projets en entreprise
+## 💼 Projets en entreprise
 
 ### Projet 1: **PowerCalc**
 **PowerCalc** est une application web et mobile développée avec Ionic pour le frontend et Flask pour le backend. L'objectif principal de l'application est de permettre une gestion optimisée des utilisateurs et des propriétés en analysant leur consommation énergétique.
