@@ -22,7 +22,34 @@ Voici un lien vers mon **CV** : [CV.pdf](assets/CV.md)
 
 ##💼 Projets en entreprise
 
-### Projet 1: **PowerCalc ()**
+### Projet 1: **PowerCalc**
+**PowerCalc** est une application web et mobile développée avec Ionic pour le frontend et Flask pour le backend. L'objectif principal de l'application est de permettre une gestion optimisée des utilisateurs et des propriétés en analysant leur consommation énergétique.
+
+# 📋 Fonctionnalités principales :
+  1. Gestion des utilisateurs :
+      - Ajout, modification et suppression des utilisateurs.
+      - Stockage des informations comme le nom, l'email, l'adresse, le numéro de téléphone, et les identifiants uniques.
+      - Gestion des dates de création et de mise à jour des données.
+
+  2. Gestion des propriétés :
+      - Prise en charge de plusieurs types de propriétés :
+          + Magasins : Analyse des équipements électriques pour calculer leur consommation.
+          + Maisons : Suivi de la consommation énergétique quotidienne et mensuelle.
+          + Agences et entreprises : Évaluation globale de la consommation énergétique par poste.
+      - Enregistrement des caractéristiques énergétiques de chaque propriété :
+          + Ampérage : Capacité des équipements.
+          + Wattage : Consommation énergétique des appareils.
+          + Temps et jours d'utilisation : Durée moyenne d'utilisation pour chaque équipement.
+
+  3. Analyse énergétique :
+
+      - Collecte et traitement des données pour aider les propriétaires à optimiser leur consommation.
+      - Exportation des données sous forme de rapports (optionnel).
+
+# 🛠️ Technologies utilisées :
+Frontend : Ionic (framework mobile et web multiplateforme)
+Backend : Flask (Python) avec SQLAlchemy pour la gestion des bases de données.
+Base de données : MySQL (via PyMySQL).
 
 <!--
 ![Screenshot du projet 1](images/screenshot1.jpg)  
